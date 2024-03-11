@@ -7,7 +7,7 @@ const ManiLayout = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <div>
+            <div className='pt-24 min-h-[calc(100vh-68px)]'>
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>
