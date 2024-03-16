@@ -1,5 +1,5 @@
 import React from 'react';
-import avatarLogo from '../../../assets/avatar.png'
+import avatarLogo from '../../../assets/user.png'
 
 const Avatar = () => {
     const user = false;
